@@ -26,7 +26,19 @@ En general, esto incluye:
 
 Por motivos técnicos, de seguridad o legales, ciertos datos pueden conservarse durante el tiempo mínimo necesario (por ejemplo, registros técnicos o de seguridad), conforme a la normativa aplicable.
 
-## 3. Solicitud de eliminación por email (alternativa)
+## 3. Solicitud de eliminación de algunos datos (sin eliminar la cuenta)
+
+Si deseas que se eliminen **algunos** datos (y no toda la cuenta), puedes solicitarlo por email:
+
+- Email: **keintisoporte@gmail.com**
+- Asunto: **Eliminación de datos – Keinti**
+- Incluye: el **correo** asociado a tu cuenta, tu **nombre de usuario** (si lo recuerdas) y una descripción clara de **qué datos** deseas eliminar (por ejemplo: avatar, imágenes de perfil, publicaciones concretas, etc.)
+
+Podremos solicitar información adicional para verificar que eres el titular de la cuenta y prevenir solicitudes fraudulentas.
+
+Ten en cuenta que, por motivos técnicos, de seguridad o legales, ciertos datos pueden conservarse durante el tiempo mínimo necesario.
+
+## 4. Solicitud de eliminación por email (alternativa) 
 
 Si no puedes acceder a la app o no encuentras la opción de eliminación, puedes solicitar la eliminación de tu cuenta por email:
 
@@ -36,7 +48,7 @@ Si no puedes acceder a la app o no encuentras la opción de eliminación, puedes
 
 Podremos solicitar información adicional para verificar que eres el titular de la cuenta y prevenir eliminaciones fraudulentas.
 
-## 4. Política de Privacidad
+## 5. Política de Privacidad
 
 Consulta aquí la Política de Privacidad:
 
@@ -72,7 +84,19 @@ In general, this includes:
 
 For technical, security, or legal reasons, certain data may be retained for the minimum time necessary (e.g., technical/security logs), as required by applicable law.
 
-## 3. Deletion request by email (alternative)
+## 3. Request deletion of some data (without deleting the account)
+
+If you want to delete **some** data (without deleting the whole account), you can request it by email:
+
+- Email: **keintisoporte@gmail.com**
+- Subject: **Data deletion – Keinti**
+- Include: the **email address** associated with your account, your **username** (if known), and a clear description of **which data** you want deleted (for example: avatar, profile images, specific posts, etc.)
+
+We may request additional information to verify ownership and prevent fraudulent requests.
+
+Please note that, for technical, security, or legal reasons, certain data may be retained for the minimum time necessary.
+
+## 4. Deletion request by email (alternative)
 
 If you cannot access the app or cannot find the deletion option, you may request account deletion by email:
 
@@ -82,7 +106,7 @@ If you cannot access the app or cannot find the deletion option, you may request
 
 We may request additional information to verify ownership and prevent fraudulent deletions.
 
-## 4. Privacy Policy
+## 5. Privacy Policy
 
 Privacy Policy:
 
